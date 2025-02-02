@@ -37,6 +37,10 @@ WHERE date_trunc('month', tpep_pickup_datetime)  = '2021-03-01'
 6) How would you configure the timezone to New York in a Schedule trigger?
 - Add a `timezone` property set to `America/New_York` in the `Schedule` trigger configuration
 
+![image](https://github.com/user-attachments/assets/762652d2-4425-46f1-8cbe-41f4fc3a2ca0)
+
+Source: 
+https://kestra.io/docs/workflow-components/triggers/schedule-trigger
 
 
 ## Submitting the solutions
